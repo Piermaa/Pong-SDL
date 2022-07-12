@@ -1,0 +1,32 @@
+﻿  Ball.cpp
+  main.cpp
+C:\Users\fabri\Desktop\piermarocchi_fabrizio_tp2_vs19\src\InputSistem.h(18,2): warning C4091: 'typedef ': ignored on left of 'InputState' when no variable is declared
+C:\Users\fabri\Desktop\piermarocchi_fabrizio_tp2_vs19\src\Ball.h(34,2): warning C4091: 'typedef ': ignored on left of 'Ball' when no variable is declared
+C:\Users\fabri\Desktop\piermarocchi_fabrizio_tp2_vs19\src\Ball.h(57,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fabri\Desktop\piermarocchi_fabrizio_tp2_vs19\src\Ball.h(58,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fabri\Desktop\piermarocchi_fabrizio_tp2_vs19\src\Ball.h(127,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\fabri\Desktop\piermarocchi_fabrizio_tp2_vs19\src\Ball.h(138,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fabri\Desktop\piermarocchi_fabrizio_tp2_vs19\src\Ball.h(139,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fabri\Desktop\piermarocchi_fabrizio_tp2_vs19\src\Ball.h(177,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\fabri\Desktop\piermarocchi_fabrizio_tp2_vs19\src\Ball.h(183,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\fabri\Desktop\piermarocchi_fabrizio_tp2_vs19\src\main.cpp(130,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fabri\Desktop\piermarocchi_fabrizio_tp2_vs19\src\main.cpp(134,32): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fabri\Desktop\piermarocchi_fabrizio_tp2_vs19\src\main.cpp(156,32): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fabri\Desktop\piermarocchi_fabrizio_tp2_vs19\src\main.cpp(160,32): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fabri\Desktop\piermarocchi_fabrizio_tp2_vs19\src\main.cpp(179,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fabri\Desktop\piermarocchi_fabrizio_tp2_vs19\src\main.cpp(180,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fabri\Desktop\piermarocchi_fabrizio_tp2_vs19\src\main.cpp(236,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fabri\Desktop\piermarocchi_fabrizio_tp2_vs19\src\main.cpp(240,31): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fabri\Desktop\piermarocchi_fabrizio_tp2_vs19\src\main.cpp(277,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\fabri\Desktop\piermarocchi_fabrizio_tp2_vs19\src\main.cpp(301,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fabri\Desktop\piermarocchi_fabrizio_tp2_vs19\src\main.cpp(302,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fabri\Desktop\piermarocchi_fabrizio_tp2_vs19\src\main.cpp(303,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fabri\Desktop\piermarocchi_fabrizio_tp2_vs19\src\main.cpp(304,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fabri\Desktop\piermarocchi_fabrizio_tp2_vs19\src\main.cpp(381,33): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+C:\Users\fabri\Desktop\piermarocchi_fabrizio_tp2_vs19\src\main.cpp(398,24): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
+  Source.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 126 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Unidad-07.2019.vcxproj -> C:\Users\fabri\Desktop\piermarocchi_fabrizio_tp2_vs19\Pong\Release\Pong.exe
